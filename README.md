@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Narendra
+- 👀 I’m interested in python programming 
+- 🌱 I’m currently learning python language
+- 📫 How to reach me:- ns952140@gmail.com
+- Currently I am a btech cs student exploring the world of technology
+- 
